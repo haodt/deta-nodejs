@@ -28,4 +28,4 @@ app.post("/api/decrypt", async (req, res) => {
   });
 });
 
-app.listen(process.env.PORT || 8080);
+module.exports = app;

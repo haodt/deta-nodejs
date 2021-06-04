@@ -4,7 +4,7 @@
   "description": "Simple cryptojs encryption and decryption API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": "git@github.com:haodt/deta-nodejs.git",
   "author": "Đoàn Thế Hào <haodt1990@gmail.com>",
